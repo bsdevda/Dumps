@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-04-23T15:39:49.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JV_IHRSfK4f6Z1aNGSh9" version="24.2.8" type="github">
+  <diagram name="Page-1" id="D5rVMEZjnN2E38uwsQDz">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="110" width="175" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="115" width="120" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="480" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-2" target="Vstk8rUTJvN5MJ3feH6q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: windowtext; font-family: Aptos, sans-serif; font-size: 12pt; background-color: initial;&quot;&gt;IoT Device&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;b&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-family: Aptos, sans-serif; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;(Android&lt;br&gt;Device)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: windowtext; font-family: Aptos, sans-serif; font-size: 12pt; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-family: Aptos, sans-serif; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-family: Aptos, sans-serif; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;&lt;b&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;(Microphone&lt;br&gt;&amp;amp;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;etwork&lt;br&gt;Connectivity)&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-3" target="Vstk8rUTJvN5MJ3feH6q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-3" target="Vstk8rUTJvN5MJ3feH6q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-family: Aptos, sans-serif; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;Secure&lt;br&gt;Network&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-family: Aptos, sans-serif; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span class=&quot;MsoSubtleReference&quot;&gt;&lt;span style=&quot;font-size: 12pt; line-height: 115%; font-family: Aptos, sans-serif; color: windowtext; font-variant-numeric: normal !important; font-variant-east-asian: normal !important; font-variant-alternates: normal !important; font-variant-position: normal !important;&quot;&gt;(TLS/SSL Enabled)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-6" target="Vstk8rUTJvN5MJ3feH6q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;HTTPS Endpoint&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-7" target="Vstk8rUTJvN5MJ3feH6q-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;HTTPS Endpoint&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="320" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Android Application&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Application Layer&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-10" target="Vstk8rUTJvN5MJ3feH6q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-10" target="Vstk8rUTJvN5MJ3feH6q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Google Cloud Platform (Speech-to-Text API)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="115" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-11" target="Vstk8rUTJvN5MJ3feH6q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Google Cloud Platform (BigQuery)&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="130" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-12" target="Vstk8rUTJvN5MJ3feH6q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;BigQuery Dataset&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Processing&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="480" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vstk8rUTJvN5MJ3feH6q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vstk8rUTJvN5MJ3feH6q-7" target="Vstk8rUTJvN5MJ3feH6q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
